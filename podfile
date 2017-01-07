@@ -1,0 +1,8 @@
+platform :ios,"8.0"
+    pod 'MJRefresh'
+    pod 'SDWebImage'
+    pod 'Masonry'
+    pod 'XMLDictionary'
+    pod 'AFNetworking'
+    pod 'FMDB'
+use_frameworks!
